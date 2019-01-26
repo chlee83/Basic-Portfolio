@@ -94,6 +94,19 @@ h2 {
     border: 1px #ddd solid;
 }
 
+a.portlink {
+    color: #fff
+}
+
+a.portlink:hover {
+    color: #ddd;
+}
+
+a.portlink:focus {
+    color: #000;
+    text-decoration: none;
+}
+
 hr {
     height: 3px;
     background-color: #ddd;
